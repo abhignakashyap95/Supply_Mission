@@ -1,2 +1,1 @@
-# Supply_Mission
-SUPPLY MISSION
+# SupplyMission
